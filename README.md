@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Osayala/Osayala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Oscar, world citizen.
 
-Here are some ideas to get you started:
+* University degree as Telecommunications Engineer 
+* Experience of more than 15 years in different roles and companies in the technology sector in Venezuela, Spain and Ireland.
+* I am currently studying for my certification as Meta IOS Developer.
+* Studying is in my genetic code and I am interested in multiple topics such as new technologies, philosophy, environmental support, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current situation
+- 🔭 I´m currently working developing the personal project of Triskel World (Application of guidance and monitoring for the integral development of body, Mind and Spirit)
+- 🌱 I´m currently learning updating my knowledge in the programming languages Swift, React, Javascript
+
+## Contact
+- 📫 How to reach me: triskelWLD@gmail.com
