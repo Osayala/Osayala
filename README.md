@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Oscar, world citizen.
+My Name is Oscar, a world citizen.
 
 * University degree as **Telecommunications Engineer** 
 * Experience of more than 15 years in different roles and companies in the technology sector in Venezuela, Spain and Ireland.
