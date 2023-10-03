@@ -8,7 +8,7 @@ My Name is Oscar, a world citizen.
 * Studying is in my genetic code and I am interested in multiple topics such as new technologies, philosophy, environmental support, etc.
 
 ## Current situation
-- 🔭 I´m currently working developing the personal project of ***Triskel World*** (Application of guidance and monitoring for the integral development of body, Mind and Spirit)
+- 🔭 I´m currently developing a project to generate automatic stories with AI
 - 🌱 I´m currently learning updating my knowledge in the programming languages Swift, React, Javascript
 
 ## Contact
